@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ERP implementation consultant and web software developer
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: rakanosystem@gmail.com
 
 
